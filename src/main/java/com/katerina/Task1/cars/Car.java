@@ -1,7 +1,9 @@
-abstract class Car {
+package com.katerina.Task1.cars;
+
+public abstract class Car {
 	private String carName;
 	
-	String name(){
+	public String name(){
 		return this.carName;
 		} 
 		

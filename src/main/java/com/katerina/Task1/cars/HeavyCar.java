@@ -1,4 +1,6 @@
-abstract class HeavyCar extends Car{
+package com.katerina.Task1.cars;
+
+public abstract class HeavyCar extends Car{
 	
 	private float cargoCapacity;
 	
